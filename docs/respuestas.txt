@@ -11,3 +11,5 @@ ejecutar y la posibilidad de suministrar el ejecutable sin el código de alto
 nivel, mientras que la interpretación permite modificar (y por ello mejorar
 potencialmente) el programa sea cual sea la máquina en la que se encuentre,
 siempre que disponga de un intérprete.
+
+
